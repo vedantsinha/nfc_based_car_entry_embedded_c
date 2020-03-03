@@ -1,2 +1,3 @@
 # nfc_based_car_entry_embedded_c
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/28ee1a7efa684ce0b07541dfcfd4f7ca)](https://app.codacy.com/manual/vedantsinha/nfc_based_car_entry_embedded_c?utm_source=github.com&utm_medium=referral&utm_content=vedantsinha/nfc_based_car_entry_embedded_c&utm_campaign=Badge_Grade_Dashboard)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/28ee1a7efa684ce0b07541dfcfd4f7ca)](https://app.codacy.com/manual/vedantsinha/nfc_based_car_entry_embedded_c?utm_source=github.com&utm_medium=referral&utm_content=vedantsinha/nfc_based_car_entry_embedded_c&utm_campaign=Badge_Grade_Dashboard)
